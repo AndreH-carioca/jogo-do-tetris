@@ -1,10 +1,18 @@
-Jogo Web - Tetris
+<h1 align="center"> Jogo do Tetris </h1>
 
-Sobre:
+<br>
 
-Aplicação desenvolvida nas linguages: CSS, HTML e JavaScript
+## 🚀 Tecnologias
 
-Veja mais sobre [git clone]: (https://github.com/git-guides/git-clone)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Licença
-Todos os diretos reservados ao André Higino Carioca 🧑‍💻
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
